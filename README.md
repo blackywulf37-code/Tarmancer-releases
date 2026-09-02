@@ -1,4 +1,4 @@
-Github: https://github.com/blackywulf37-code/Tarmancer-releases
+
 
 Test Release Patch Notes v0.1.3
 
