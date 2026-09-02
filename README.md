@@ -1,9 +1,9 @@
-Test Release Patch Notes v0.1.3.5``` 
+```
+Test Release Patch Notes v0.1.3.5
 
     Fixed Leech mobs clogging up the spawn pool.
     Added a chance for enemy projectiles to become homing projectiles.
 
-```
 
 Test Release Patch Notes v0.1.3
 
