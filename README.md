@@ -1,3 +1,5 @@
+Github: https://github.com/blackywulf37-code/Tarmancer-releases
+
 Test Release Patch Notes v0.1.3
 
     Added treasure chests that can occasionally appear while exploring.
