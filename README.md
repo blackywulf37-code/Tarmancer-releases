@@ -2,11 +2,13 @@
 
     Fixed Leech mobs clogging up the spawn pool.
     Added a chance for enemy projectiles to become homing projectiles.
+
 ```
 
 Test Release Patch Notes v0.1.3
 
     Added treasure chests that can occasionally appear while exploring.
+    
     Chests contain a variety of useful rewards and rare treasures.
     
     Added Mimics—some discoveries may be more dangerous than they first appear.
